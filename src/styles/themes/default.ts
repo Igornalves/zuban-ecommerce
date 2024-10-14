@@ -1,7 +1,6 @@
 export const defaultTheme = {
     white: "#fff",
 
-    primaria: '#003778',
-    secundaria: '#0A78FA',
-    tercearia: '#03A900',
-}
+    primaria: '#C24453',
+    secundaria: '#F94B60',
+} as const
